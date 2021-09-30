@@ -18,11 +18,9 @@ public class Main {
 		taxi1.addOneTaxi(e1);
 		taxi1.addOneTaxi(g1);
 		
-		
-		
 		taxi2.addOneTaxi(e2);
 		taxi2.addOneTaxi(g2);
-		
+		//da
 		fleet.add(taxi1);
 		fleet.add(taxi2);
 		
