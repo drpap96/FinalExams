@@ -10,7 +10,7 @@ public class Main {
 		Fleet taxi2 = new Fleet("Korinthos");
 		
 		Taxi e1= new ElectricalTaxi("XSA123","PapadopoulouDionsiaRafaela",5);
-		Taxi e2= new ElectricalTaxi("NMI122","NIKITA",8);
+		Taxi e2= new ElectricalTaxi("NMI122","Eleftheriou",8);
 		
 		Taxi g1= new GasolineTaxi("FDC123","Papadopoulou",20,5.1);
 		Taxi g2= new GasolineTaxi("FEO902","POLIXENOU",18,4.2);
